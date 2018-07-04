@@ -1,4 +1,4 @@
-var DemoScene= new Phaser.Scene('Demo');
+var DemoScene = new Phaser.Scene('Demo');
 
 DemoScene.preload = function()
 {

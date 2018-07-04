@@ -5,7 +5,7 @@ App.prototype.start = function()
 	// Scenes
 	var scenes = [];
 	
-	scenes.push(Demo);
+	scenes.push(DemoScene);
 	//scenes.push(PreloadScene);
 	//scenes.push(IntroScene);
 	
